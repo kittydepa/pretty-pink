@@ -1,0 +1,21 @@
+{
+  "name": "pretty-pink",
+  "displayName": "pretty_pink",
+  "description": "An even more pink VSC theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pretty Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pretty Pink-color-theme.json"
+      }
+    ]
+  }
+}
